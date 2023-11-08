@@ -20,7 +20,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I'm a self-taught programmer driven by a profound passion for web development and pioneering new technologies. 
+            I'm a programmer with a deep passion for web development and pioneering new technologies. 
               <br />
               <br />My proficiency spans classic programming languages, encompassing 
                 <b className="purple">  HTML, CSS, JavaScript and Python.</b>

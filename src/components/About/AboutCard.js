@@ -30,7 +30,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Do better today, for a better tommorrow"{" "}
+            "One day or day one?"{" "}
           </p>
           <footer className="blockquote-footer">Miseda</footer>
         </blockquote>

@@ -12,7 +12,7 @@ function AboutCard() {
             <br/>
             <br/> My name is <span className="purple">Alex Miseda </span>
             from <span className="purple"> Nairobi, Kenya. </span>
-            I am currently an undergraduate at Glasgow Caledonian University pursuing BSc(Hons) Computing .
+            I am a BSc(Hons) Computing Graduate and I specialize in web development.
             <br />
             <br />
             Apart from coding, other activities that I enjoy doing include:
@@ -22,10 +22,10 @@ function AboutCard() {
             &bull; Graphic Design
             </li>
             <li className="about-activity">
-            &bull; Music Production
+            &bull; Data analysis
             </li>
             <li className="about-activity">
-            &bull; Travelling
+            &bull; Sound engineering
             </li>
           </ul>
 

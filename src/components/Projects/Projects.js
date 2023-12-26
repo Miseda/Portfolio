@@ -28,6 +28,18 @@ function Projects() {
 
         <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={b2c}
+              isBlog={false}
+              title="B2C"
+              description="B2C, designed for Batanai 2 Create, is a web app that informs users about the company, enables career updates, and allows users to propose applications. Admin-approved submissions move to a challenge board where developers collaborate on ideation and development strategies, fostering a dynamic creative community."
+              ghLink="https://github.com/Miseda/B2C"
+              demoLink="https://b2c-bay.vercel.app/"
+              figmaLink ="https://www.figma.com/file/ZgUFAk6AQ0xP3ITFKdqVQi/B2C?type=design&node-id=0%3A1&mode=design&t=ODM40iTBFklLgsJB-1"
+            />
+          </Col>
+
+        <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={bridgeapp}
               isBlog={false}
               title="Bridge"
@@ -45,7 +57,6 @@ function Projects() {
               title="AGB Fitness"
               description="AGB Fitness is an innovative web application developed to promote a healthier lifestyle among employees of a fictitious company, AGB. The platform allows users to set goals across various sectors, including health and nutrition, and track their progress once the goals are achieved. With a modern and sleek design, AGB Fitness boasts a range of features that align with the latest trends in fitness app development. By leveraging the power of technology, AGB Fitness provides a practical and convenient way for users to prioritize their well-being and achieve their fitness goals."
               ghLink="https://github.com/Miseda/AGB_FITNESS_APP"
-              demoLink="https://agb-bsqo.onrender.com/login"
               figmaLink= "https://www.figma.com/file/cCfIrR4nu51BDjiq835g08/AGB-FITNESS?t=UWvMqrgOAa7GYmT3-1"
             />
           </Col>

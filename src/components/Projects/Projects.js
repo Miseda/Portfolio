@@ -10,6 +10,7 @@ import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import tour from "../../Assets/Projects/tour.png";
 import paye from "../../Assets/Projects/paye.png";
+import b2c from "../../Assets/Projects/b2c.png";
 import toDine from "../../Assets/Projects/toDine.png";
 import bridgeapp from "../../Assets/Projects/bridgeapp.png";
 
